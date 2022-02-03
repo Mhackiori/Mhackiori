@@ -1,9 +1,9 @@
-# Hi I am Francesco - [Portfolio][website]
+# Hi, I am Francesco - [Portfolio][website]
 
 ## ℹ About me
 
-- 🎓 B. Sc.[Information Engineering][UniPD_IE] (2017 - 2020)
-- 🎓 M. Sc.[Cybersecurity][UniPD_CS] (2020 - Present)
+- 🎓 B. Sc. [Information Engineering][UniPD_IE] (2017 - 2020)
+- 🎓 M. Sc. [Cybersecurity][UniPD_CS] (2020 - Present)
 - 🧑🏻‍💻 Internship @ [Leonardo][Leonardo] (March 2022 - June 2022)
 - 🎵 Musician and producer for fun @ [March][March]
 
