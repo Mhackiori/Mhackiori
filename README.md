@@ -2,16 +2,12 @@
 
 I'm currently studying [Cybersecurity][UniPD_CS] in University of Padua and pursuing an internship at [Leonardo][Leonardo] Company.
 
-<br />
-
 ## ℹ About me
 
 - 🎓 B. Sc. [Information Engineering][UniPD_IE] (2017 - 2020)
 - 🎓 M. Sc. [Cybersecurity][UniPD_CS] (2020 - Present)
 - 🧑🏻‍💻 Internship @ [Leonardo][Leonardo] (March 2022 - June 2022)
 - 🎵 Musician and producer for fun @ [March][March]
-
-<br />
 
 ## 💻 Languages and Tools
 
@@ -36,9 +32,7 @@ I'm currently studying [Cybersecurity][UniPD_CS] in University of Padua and purs
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:francesco.marchiori98@gmail.com)](mailto:francesco.marchiori98@gmail.com)
 [![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/artist/4D9wOJm89Fd2pkYKz4dNGf?si=3ltyAANvT9qis80nsqHRyg&nd=1)](https://open.spotify.com/artist/4D9wOJm89Fd2pkYKz4dNGf?si=3ltyAANvT9qis80nsqHRyg&nd=1)
 
-<br />
-
-### 📈 Stats
+## 📈 Stats
 
 <img alt="Francesco Marchiori's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FrancescoMarchiori&show_icons=true&hide_border=true" />
 
