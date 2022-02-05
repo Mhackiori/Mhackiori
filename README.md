@@ -2,7 +2,7 @@
 
 I'm currently studying [Cybersecurity][UniPD_CS] in University of Padua and pursuing an internship at [Leonardo][Leonardo] Company.
 
-## ℹ About me
+## ℹ About me 
 
 - 🎓 B. Sc. [Information Engineering][UniPD_IE] (2017 - 2020)
 - 🎓 M. Sc. [Cybersecurity][UniPD_CS] (2020 - Present)
@@ -23,6 +23,7 @@ I'm currently studying [Cybersecurity][UniPD_CS] in University of Padua and purs
 <img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
 <img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
+<br />
 <br />
 
 ## 📬 Find me at
