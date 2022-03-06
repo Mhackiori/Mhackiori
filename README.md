@@ -1,6 +1,6 @@
 # Hi, I am Francesco - [Portfolio][website]
 
-I'm currently studying [Cybersecurity][UniPD_CS] in University of Padua and pursuing an internship at [Leonardo][Leonardo] Company.
+I'm currently studying [Cybersecurity][UniPD_CS] in University of Padua and pursuing an internship at [Leonardo S.p.A.][Leonardo].
 
 ## 🔎 About Me 
 
@@ -26,7 +26,7 @@ I'm currently studying [Cybersecurity][UniPD_CS] in University of Padua and purs
 <br />
 <br />
 
-## 📬 Find Me @
+## 📬 Find Me
 
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/FrancescoMarchiori)](https://github.com/FrancescoMarchiori)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/francesco-marchiori-1b9059219/)](https://www.linkedin.com/in/francescomarchiori/)
