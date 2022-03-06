@@ -1,6 +1,6 @@
 # Hi, I am Francesco - [Portfolio][website]
 
-I'm currently studying [Cybersecurity][UniPD_CS] in University of Padua and pursuing an internship at [Leonardo S.p.A.][Leonardo].
+I'm currently studying [Cybersecurity][UniPD_CS] in University of Padua and pursuing an internship at [Leonardo S.p.A][Leonardo].
 
 ## 🔎 About Me 
 
