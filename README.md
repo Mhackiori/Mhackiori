@@ -1,12 +1,13 @@
 [![MasterHead](https://i.postimg.cc/KjzmjZ1N/premiere4.gif)](https://francescomarchiori.github.io/)
 <h1 align="center">Hi, I'm Francesco 👋</h1>
 
-I'm currently studying [Cybersecurity][UniPD_CS] in University of Padua and pursuing an internship at [Leonardo S.p.A][Leonardo].
+I'm a Ph.D. Candidate in [Brain, Mind and Computer Science][UniPD_BMCS] at the University of Padua with a Master's degree in [Cybersecurity][UniPD_CS]. My main research interests include Automotive Security, Adversarial Attacks and Quantum Cryptography.
 
 ## 🔎 About Me 
 
-- 🎓 B. Sc. [Information Engineering][UniPD_IE] (2017 - 2020)
-- 🎓 M. Sc. [Cybersecurity][UniPD_CS] (2020 - Present)
+- 🎓 Ph.D. [Brain, Mind and Computer Science][UniPD_BMCS] (2022 - Present)
+- 🎓 M.Sc. [Cybersecurity][UniPD_CS] (2020 - 2022)
+- 🎓 B.Sc. [Information Engineering][UniPD_IE] (2017 - 2020)
 - 🧑🏻‍💻 Internship @ [Leonardo][Leonardo] (March 2022 - June 2022)
 - 🎵 Musician and producer for fun @ [March][March]
 
@@ -42,5 +43,6 @@ I'm currently studying [Cybersecurity][UniPD_CS] in University of Padua and purs
 [website]: https://francescomarchiori.github.io/
 [UniPD_IE]: https://en.didattica.unipd.it/off/2017/LT/IN/IN0513
 [UniPD_CS]: https://en.didattica.unipd.it/off/2020/LM/SC/SC2542
+[UniPD_BMCS]: http://hit.psy.unipd.it/BMCS-Overview
 [Leonardo]: https://www.leonardo.com/
 [March]: https://open.spotify.com/artist/4D9wOJm89Fd2pkYKz4dNGf?si=3ltyAANvT9qis80nsqHRyg&nd=1
