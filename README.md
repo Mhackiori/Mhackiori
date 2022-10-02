@@ -1,7 +1,7 @@
 [![MasterHead](https://i.postimg.cc/KjzmjZ1N/premiere4.gif)](https://francescomarchiori.github.io/)
 <h1 align="center">Hi, I'm Francesco 👋</h1>
 
-I'm a Ph.D. Candidate in [Brain, Mind and Computer Science][UniPD_BMCS] at the University of Padua with a Master's degree in [Cybersecurity][UniPD_CS]. My main research interests include Automotive Security, Adversarial Attacks and Quantum Cryptography.
+I'm a Ph.D. Student in [Brain, Mind and Computer Science][UniPD_BMCS] at the University of Padua with a Master's degree in [Cybersecurity][UniPD_CS]. My main research interests include Automotive Security, Adversarial Attacks and Quantum Cryptography.
 
 ## 🔎 About Me 
 
