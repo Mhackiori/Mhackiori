@@ -9,7 +9,6 @@ I'm a Ph.D. Student in [Brain, Mind and Computer Science][UniPD_BMCS] at the Uni
 - 🎓 M.Sc. [Cybersecurity][UniPD_CS] (2020 - 2022)
 - 🎓 B.Sc. [Information Engineering][UniPD_IE] (2017 - 2020)
 - 🧑🏻‍💻 Internship @ [Leonardo][Leonardo] (March 2022 - June 2022)
-- 🎵 Musician and producer for fun @ [March][March]
 
 ## 💻 Languages and Tools
 
@@ -30,10 +29,12 @@ I'm a Ph.D. Student in [Brain, Mind and Computer Science][UniPD_BMCS] at the Uni
 
 ## 📬 Find Me
 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:francesco.marchiori98@gmail.com)](mailto:francesco.marchiori98@gmail.com)
 [![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/FrancescoMarchiori)](https://github.com/Mhackiori)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/francesco-marchiori-1b9059219/)](https://www.linkedin.com/in/francescomarchiori/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:francesco.marchiori98@gmail.com)](mailto:francesco.marchiori98@gmail.com)
-[![Spotify Badge](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white&link=https://open.spotify.com/artist/4D9wOJm89Fd2pkYKz4dNGf?si=3ltyAANvT9qis80nsqHRyg&nd=1)](https://open.spotify.com/artist/4D9wOJm89Fd2pkYKz4dNGf?si=3ltyAANvT9qis80nsqHRyg&nd=1)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Mhackiori)](https://twitter.com/Mhackiori)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/users/735846467905912974)](https://discord.com/users/735846467905912974)
+[![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white&link=https://join.skype.com/invite/Dh2TiRzGTFTZ)](https://join.skype.com/invite/Dh2TiRzGTFTZ)
 
 ## 📈 GitHub Stats
 
@@ -45,4 +46,3 @@ I'm a Ph.D. Student in [Brain, Mind and Computer Science][UniPD_BMCS] at the Uni
 [UniPD_CS]: https://en.didattica.unipd.it/off/2020/LM/SC/SC2542
 [UniPD_BMCS]: http://hit.psy.unipd.it/BMCS-Overview
 [Leonardo]: https://www.leonardo.com/
-[March]: https://open.spotify.com/artist/4D9wOJm89Fd2pkYKz4dNGf?si=3ltyAANvT9qis80nsqHRyg&nd=1
