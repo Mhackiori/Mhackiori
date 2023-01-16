@@ -1,14 +1,14 @@
 [![MasterHead](https://i.postimg.cc/KjzmjZ1N/premiere4.gif)](https://www.math.unipd.it/~fmarchio/)
 <h1 align="center">Hi, I'm Francesco 👋</h1>
 
-I'm a Ph.D. Student in [Brain, Mind and Computer Science][UniPD_BMCS] at the University of Padua with a Master's degree in [Cybersecurity][UniPD_CS]. My main research interests include Automotive Security, Adversarial Attacks and Quantum Cryptography.
+I'm a Ph.D. Student in [Brain, Mind and Computer Science][UniPD_BMCS] at the University of Padua with a Master's degree in [Cybersecurity][UniPD_CS]. Here, I am part of the Security and Privacy ([SPRITZ][SPRITZ]) research group. My research interests include primarily in Automotive Security, with a particular focus on Machine Learning and Deep Learning applications. I am also interested in Adversarial Attacks, Cyber Threat Intelligence and Quantum Cryptography and Computing.
 
 ## 🔎 About Me 
 
-- 🎓 Ph.D. [Brain, Mind and Computer Science][UniPD_BMCS] (2022 - Present)
-- 🎓 M.Sc. [Cybersecurity][UniPD_CS] (2020 - 2022)
-- 🎓 B.Sc. [Information Engineering][UniPD_IE] (2017 - 2020)
-- 🧑🏻‍💻 Internship @ [Leonardo][Leonardo] (March 2022 - June 2022)
+👨🏼‍🎓 | PhD [Brain, Mind and Computer Science][UniPD_BMCS] (2022 - Present)<br>
+🎓 | MSc [Cybersecurity][UniPD_CS] (2020 - 2022)<br>
+🎓 | BSc [Information Engineering][UniPD_IE] (2017 - 2020)<br>
+🧑🏻‍💻 | Internship @ [Leonardo][Leonardo] (March 2022 - June 2022)
 
 ## 💻 Languages and Tools
 
@@ -46,3 +46,4 @@ I'm a Ph.D. Student in [Brain, Mind and Computer Science][UniPD_BMCS] at the Uni
 [UniPD_CS]: https://en.didattica.unipd.it/off/2020/LM/SC/SC2542
 [UniPD_BMCS]: http://hit.psy.unipd.it/BMCS-Overview
 [Leonardo]: https://www.leonardo.com/
+[SPRITZ]: https://spritz.math.unipd.it/
