@@ -1,28 +1,31 @@
 [![MasterHead](https://i.postimg.cc/KjzmjZ1N/premiere4.gif)](https://www.math.unipd.it/~fmarchio/)
 <h1 align="center">Hi, I'm Francesco 👋</h1>
 
-I'm a Ph.D. Student in [Brain, Mind and Computer Science][UniPD_BMCS] at the University of Padua with a Master's degree in [Cybersecurity][UniPD_CS]. Here, I am part of the Security and Privacy ([SPRITZ][SPRITZ]) research group. My research interests include primarily in Automotive Security, with a particular focus on Machine Learning and Deep Learning applications. I am also interested in Adversarial Attacks, Cyber Threat Intelligence and Quantum Cryptography and Computing.
+I'm a PhD Student in [Brain, Mind and Computer Science][UniPD_BMCS] at the University of Padua with a Master's degree in [Cybersecurity][UniPD_CS]. Here, I am part of the Security and Privacy ([SPRITZ][SPRITZ]) research group. My research interests include primarily in Automotive Security, with a particular focus on Machine Learning and Deep Learning applications. I am also interested in Adversarial Attacks, Cyber Threat Intelligence and Quantum Cryptography and Computing.
 
 ## 🔎 About Me 
 
-👨🏼‍🎓 | PhD [Brain, Mind and Computer Science][UniPD_BMCS] (2022 - Present)<br>
+📖 | PhD [Brain, Mind and Computer Science][UniPD_BMCS] (2022 - Present)<br>
 🎓 | MSc [Cybersecurity][UniPD_CS] (2020 - 2022)<br>
 🎓 | BSc [Information Engineering][UniPD_IE] (2017 - 2020)<br>
-🧑🏻‍💻 | Internship @ [Leonardo][Leonardo] (March 2022 - June 2022)
+🏭 | Internship @ [Leonardo][Leonardo] (March 2022 - June 2022)
 
 ## 💻 Languages and Tools
 
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
+<img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
 <img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
 <img align="left" alt="MatLab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
-<img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
 <img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
 <img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+<img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 
 <br />
 <br />
