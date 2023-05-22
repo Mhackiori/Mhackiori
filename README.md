@@ -1,7 +1,7 @@
 [![MasterHead](https://i.postimg.cc/KjzmjZ1N/premiere4.gif)](https://www.math.unipd.it/~fmarchio/)
 <h1 align="center">Hi, I'm Francesco 👋</h1>
 
-I'm a PhD Student in [Brain, Mind and Computer Science][UniPD_BMCS] at the University of Padua with a Master's degree in [Cybersecurity][UniPD_CS]. Here, I am part of the Security and Privacy ([SPRITZ][SPRITZ]) research group. My research interests include primarily in Automotive Security, with a particular focus on Machine Learning and Deep Learning applications. I am also interested in Adversarial Attacks, Cyber Threat Intelligence and Quantum Cryptography and Computing.
+I'm a PhD Student in [Brain, Mind and Computer Science][UniPD_BMCS] at the University of Padua with a Master's degree in [Cybersecurity][UniPD_CS]. Here, I am part of the Security and Privacy ([SPRITZ][SPRITZ]) research group. My research interests lie primarily in Automotive Security, with a particular focus on Machine Learning and Deep Learning applications. I am also interested in Adversarial Attacks, Cyber Threat Intelligence and Quantum Cryptography and Computing.
 
 ## 🔎 About Me 
 
