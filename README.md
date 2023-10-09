@@ -1,7 +1,7 @@
 [![MasterHead](https://i.postimg.cc/KjzmjZ1N/premiere4.gif)](https://www.math.unipd.it/~fmarchio/)
 <h1 align="center">Hi, I'm Francesco 👋</h1>
 
-I'm a PhD Student in [Brain, Mind and Computer Science][UniPD_BMCS] at the University of Padua with a Master's degree in [Cybersecurity][UniPD_CS]. Here, I am part of the Security and Privacy ([SPRITZ][SPRITZ]) research group. My research interests lie primarily in Automotive Security, with a particular focus on Machine Learning and Deep Learning applications. I am also interested in Adversarial Attacks, Cyber Threat Intelligence and Quantum Cryptography and Computing.
+I'm a PhD Student in [Brain, Mind and Computer Science][UniPD_BMCS] at the University of Padua with a Master's degree in [Cybersecurity][UniPD_CS]. Here, I am part of the Security and Privacy ([SPRITZ][SPRITZ]) research group. My research interests lie primarily in Automotive Security, focusing on Machine Learning and Deep Learning applications. I am also interested in Adversarial Attacks, Cyber Threat Intelligence, and Quantum Cryptography and Computing.
 
 ## 🔎 About Me 
 
@@ -9,6 +9,12 @@ I'm a PhD Student in [Brain, Mind and Computer Science][UniPD_BMCS] at the Unive
 🎓 | MSc [Cybersecurity][UniPD_CS] (2020 - 2022)<br>
 🎓 | BSc [Information Engineering][UniPD_IE] (2017 - 2020)<br>
 🏭 | Internship @ [Leonardo][Leonardo] (March 2022 - June 2022)
+
+## 📚 Recent Publications
+
+- **Francesco Marchiori**, Mauro Conti. 2023. Your Battery Is a Blast! Safeguarding Against Counterfeit Batteries with Authentication. To be presented in Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS '23). Preprint: https://arxiv.org/abs/2309.03607
+- Marco Alecci, Mauro Conti, **Francesco Marchiori**, Luca Martinelli, and Luca Pajola. 2023. Your Attack Is Too DUMB: Formalizing Attacker Scenarios for Adversarial Transferability. In Proceedings of the 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID '23). Association for Computing Machinery, New York, NY, USA, 315–329. https://doi.org/10.1145/3607199.3607227
+- **Francesco Marchiori**, Mauro Conti, and Nino Vincenzo Verde. 2023. STIXnet: A Novel and Modular Solution for Extracting All STIX Objects in CTI Reports. In Proceedings of the 18th International Conference on Availability, Reliability and Security (ARES '23). Association for Computing Machinery, New York, NY, USA, Article 3, 1–11. https://doi.org/10.1145/3600160.3600182
 
 ## 💻 Languages and Tools
 
