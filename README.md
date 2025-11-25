@@ -1,61 +1,66 @@
-[![MasterHead](https://i.postimg.cc/KjzmjZ1N/premiere4.gif)](https://www.math.unipd.it/~fmarchio/)
-<h1 align="center">Hi, I'm Francesco 👋</h1>
+<h1 align="left">Hey 👋 I'm Francesco</h1>
 
-I'm a PhD Student in [Brain, Mind and Computer Science][UniPD_BMCS] at the University of Padua with a Master's degree in [Cybersecurity][UniPD_CS]. Here, I am part of the Security and Privacy ([SPRITZ][SPRITZ]) research group. My research interests lie primarily in Automotive Security, focusing on Machine Learning and Deep Learning applications. I am also interested in Adversarial Attacks, Cyber Threat Intelligence, and Quantum Cryptography and Computing.
+###
 
-## 🔎 About Me 
+<p align="left">I am a Data Scientist at Negentro with a PhD in Brain, Mind and Computer Science from the University of Padova. I mainly work on AI applied to security and privacy, and I am also passionate about threat intelligence and quantum computing and cryptography.</p>
 
-📖 | PhD [Brain, Mind and Computer Science][UniPD_BMCS] (2022 - Present)<br>
-🎓 | MSc [Cybersecurity][UniPD_CS] (2020 - 2022)<br>
-🎓 | BSc [Information Engineering][UniPD_IE] (2017 - 2020)<br>
-🏭 | Internship @ [Leonardo][Leonardo] (March 2022 - June 2022)
+###
 
-## 📚 Latest Publications
+<h2 align="left">About me</h2>
 
-- Emad Efatinasab, **Francesco Marchiori**, Alessandro Brighente, Mirco Rampazzo, and Mauro Conti. 2024. 21st Conference on Detection of Intrusions and Malware & Vulnerability Assessment (DIMVA '24). Preprint: https://arxiv.org/abs/2403.17494
-- **Francesco Marchiori** and Mauro Conti. 2024. CANEDERLI: On The Impact of Adversarial Training and Transferability on CAN Intrusion Detection Systems. In Proceedings of the 2024 ACM Workshop on Wireless Security and Machine Learning (WiseML '24). Association for Computing Machinery, New York, NY, USA. Preprint: https://arxiv.org/abs/2404.04648
-- Filippo Perrina, **Francesco Marchiori**, Mauro Conti, and Nino Vincenzo Verde. 2023. AGIR: Automating Cyber Threat Intelligence Reporting with Natural Language Generation. 2023 IEEE International Conference on Big Data (Big Data '23), Sorrento, Italy, 2023. https://doi.org/10.1109/BigData59044.2023.10386116
-- **Francesco Marchiori** and Mauro Conti. 2023. Your Battery Is a Blast! Safeguarding Against Counterfeit Batteries with Authentication. In Proceedings of the 2023 ACM SIGSAC Conference on Computer and Communications Security (CCS '23). Association for Computing Machinery, New York, NY, USA, 105–119. https://doi.org/10.1145/3576915.3623179
-- Marco Alecci, Mauro Conti, **Francesco Marchiori**, Luca Martinelli, and Luca Pajola. 2023. Your Attack Is Too DUMB: Formalizing Attacker Scenarios for Adversarial Transferability. In Proceedings of the 26th International Symposium on Research in Attacks, Intrusions and Defenses (RAID '23). Association for Computing Machinery, New York, NY, USA, 315–329. https://doi.org/10.1145/3607199.3607227
-- **Francesco Marchiori**, Mauro Conti, and Nino Vincenzo Verde. 2023. STIXnet: A Novel and Modular Solution for Extracting All STIX Objects in CTI Reports. In Proceedings of the 18th International Conference on Availability, Reliability and Security (ARES '23). Association for Computing Machinery, New York, NY, USA, Article 3, 1–11. https://doi.org/10.1145/3600160.3600182
+###
 
-## 💻 Languages and Tools
+<p align="left">🌍 Currently based in Italy<br>🏫 Bachelor in Information Engineering (2020)<br>🎓 Master in Cybersecurity (2022)<br>👨‍🎓 PhD in Brain Mind and Computer Science (2025)</p>
 
-<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="TensorFlow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg"/>
-<img align="left" alt="PyTorch" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"/>
-<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="C" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
-<img align="left" alt="C++" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-<img align="left" alt="HTML" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left" alt="MatLab" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
-<img align="left" alt="Jupyter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg"/>
-<img align="left" alt="VS Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
-<img align="left" alt="Linux" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
-<img align="left" alt="Bash" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
+###
 
-<br />
-<br />
+<h2 align="left">My publications</h2>
 
-## 📬 Find Me
+###
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:francesco.marchiori98@gmail.com)](mailto:francesco.marchiori98@gmail.com)
-[![Github Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/FrancescoMarchiori)](https://github.com/Mhackiori)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/francesco-marchiori-1b9059219/)](https://www.linkedin.com/in/francescomarchiori/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/Mhackiori)](https://twitter.com/Mhackiori)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white&link=https://discord.com/users/735846467905912974)](https://discord.com/users/735846467905912974)
-[![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white&link=https://join.skype.com/invite/Dh2TiRzGTFTZ)](https://join.skype.com/invite/Dh2TiRzGTFTZ)
+<p align="left">
+  Some of the projects in this repository contain code associated with my scientific publications. 
+  While the related papers are often linked, you can find a complete list on my 
+  <a href="https://scholar.google.com/citations?user=mXbNNwgAAAAJ&hl=en" target="_blank">Google Scholar page</a>.
+</p>
 
-## 📈 GitHub Stats
+<h2 align="left">I code with</h2>
 
-<img alt="Francesco Marchiori's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Mhackiori&show_icons=true&hide_border=true&bg_color=-25,25241c,9250c1&title_color=fff&text_color=fff" />
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
 
-[website]: https://www.math.unipd.it/~fmarchio/
-[UniPD_IE]: https://en.didattica.unipd.it/off/2017/LT/IN/IN0513
-[UniPD_CS]: https://en.didattica.unipd.it/off/2020/LM/SC/SC2542
-[UniPD_BMCS]: http://hit.psy.unipd.it/BMCS-Overview
-[Leonardo]: https://www.leonardo.com/
-[SPRITZ]: https://spritz.math.unipd.it/
+###
+
+<details>
+  <summary><strong>🎮 Wanna play a game?</strong></summary>
+
+  <ul>
+    <li>🧩 <code>gurcreevacntrfjvyyuryclbhsvaqlbhepnyyvatohgqbagsbetrgvgfgehrznfgreorpnhfr64unaqfznxryvtugjbex</code></li>
+    <li>🔗 <a href="https://bit.ly/3LZWsjW+4s5IASk" target="_blank">Follow the trail</a></li>
+  </ul>
+</details>
