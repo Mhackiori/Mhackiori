@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🌍 Currently based in Italy<br>🏫 Bachelor in Information Engineering (2020)<br>🎓 Master in Cybersecurity (2022)<br>👨‍🎓 PhD in Brain Mind and Computer Science (2025)</p>
+<p align="left">🌍 Currently based in Italy<br>👨‍🎓 PhD in Brain Mind and Computer Science (2025)<br>🎓 Master in Cybersecurity (2022)</p>
 
 ###
 
@@ -19,7 +19,7 @@
 ###
 
 <p align="left">
-  Some of the projects in this repository contain code associated with my scientific publications. 
+  Some of the projects in my profile contain code associated with my scientific publications. 
   While the related papers are often linked, you can find a complete list on my 
   <a href="https://scholar.google.com/citations?user=mXbNNwgAAAAJ&hl=en" target="_blank">Google Scholar page</a>.
 </p>
